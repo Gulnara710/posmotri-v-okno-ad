@@ -12,9 +12,7 @@
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/katarinaVanish/posmotri-v-okno-ad
-```
+```git clone https://github.com/Gulnara710/posmotri-v-okno-ad.git```
 
 2. Откройте index.html в браузере (Chrome, Firefox или Edge).
 
